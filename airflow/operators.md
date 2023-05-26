@@ -1,6 +1,6 @@
 #### Operators in Dag
 
-There are three operators.
+There are three operators in airflow.
 
 1. Action operators: executes an action
 
